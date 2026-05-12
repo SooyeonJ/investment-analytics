@@ -6,7 +6,7 @@
 
 | 이름 | 이메일 |
 |---|---|
-| 조원희(팀장) | example2@email.com |
+| 조원희(팀장) | wonhi0214@gmail.com |
 | 정수연 | sooyeon6063@gmail.com |
 | 함동관 | example3@email.com |
 
