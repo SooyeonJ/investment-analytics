@@ -2,10 +2,7 @@
 
 ## 👥 Team Introduction
 
-### Team Name
-# 불사 알파 (Bulsa Alpha)
-
-## Team Members
+### 불사 알파 (Bulsa Alpha)
 
 | 이름 | 이메일 |
 |---|---|
