@@ -1,16 +1,20 @@
 # 2026 DB GAPS 모의투자 대회 프로젝트
 
-## 📌 Overview
+## 👥 Team Introduction
 
-본 프로젝트는 DB GAPS 글로벌 자산배분 투자대회를 기반으로  
-퀀트 및 매크로 전략을 활용한 포트폴리오 운용과 백테스트를 수행합니다.
+### Team Name
+# 불사 알파 (Bulsa Alpha)
 
-- 데이터 기반 자산배분 전략 설계
-- ETF 및 글로벌 자산 포트폴리오 구성
-- Python 기반 백테스트 및 성과 분석
-- 모의투자 대회 운용 및 보고서 작성
+## Team Members
+
+| 이름 | 이메일 |
+|---|---|
+| 조원희(팀장) | example2@email.com |
+| 정수연 | sooyeon6063@gmail.com |
+| 함동관 | example3@email.com |
 
 
+> 글로벌 자산배분 전략과 데이터 기반 분석을 통해 안정적인 초과수익(Alpha) 달성을 목표로 하는 투자 연구 팀
 
 ## 📅 Competition Schedule (2026)
 
