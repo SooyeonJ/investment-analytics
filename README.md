@@ -8,7 +8,7 @@
 |---|---|
 | 조원희(팀장) | wonhi0214@gmail.com |
 | 정수연 | sooyeon6063@gmail.com |
-| 함동관 | example3@email.com |
+| 함동관 | donggwanham@gmail.com |
 
 
 > 글로벌 자산배분 전략과 데이터 기반 분석을 통해 안정적인 초과수익(Alpha) 달성을 목표로 하는 투자 연구 팀
