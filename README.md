@@ -10,21 +10,7 @@
 | 정수연 | sooyeon6063@gmail.com |
 | 함동관 | donggwanham@gmail.com |
 
-
 > 글로벌 자산배분 전략과 데이터 기반 분석을 통해 안정적인 초과수익(Alpha) 달성을 목표로 하는 투자 연구 팀
-
-## 🔐 팀 계정 정보
-
-> ⚠️ 드래그하여 확인하세요 (비공개)
-
-| 항목 | 내용 |
-|------|------|
-| 아이디 | <span style="color:#fff;background:#fff;user-select:text;">cho5554</span> |
-| 비밀번호 | <span style="color:#fff;background:#fff;user-select:text;">!seo6965</span> |
-
-> 🔒 본 레포지토리는 Private으로 유지해주세요.
-
-
 
 ## 📅 Competition Schedule (2026)
 
