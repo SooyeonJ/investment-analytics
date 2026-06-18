@@ -160,4 +160,22 @@ ETF 자산배분 전략 연구와 모의투자를 수행합니다.
 
 
 ## 🗂️ Project Structure
-(추가 예정)
+
+```text
+investment-analytics/
+├── docs/
+│   ├── 투자계획서/              # 최초 투자계획서 (2026.05.28 제출, 수정 X)
+│   │   ├── README.md           # 투자철학 · 자산군별 시장전망 · 상품별 투자전략
+│   │   └── portfolio.md        # 최초 편입 ETF 상세 (✅ 표시)
+│   ├── 운용일지/
+│   │   └── rebalancing-log.md  # 리밸런싱(매도/매수) 기록
+│   └── domestic-stock-strategy.md  # 국내 자산 시장전망 (정수연 담당)
+├── reports/                     # 월별 운용보고서 (6~8월)
+│   ├── 2026-06/
+│   │   ├── report.md            # 보고서 본문
+│   │   └── analysis.py          # pykrx 기반 수익률/리밸런싱 분석
+│   ├── 2026-07/
+│   └── 2026-08/
+└── README.md
+```
+
