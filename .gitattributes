@@ -1,1 +1,3 @@
 docs/운용보고서/*.py linguist-language=Python
+*.md linguist-detectable=false
+*.docx linguist-detectable=false
